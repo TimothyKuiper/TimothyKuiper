@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @TimothyKuiper
-- 👀 I’m interested in biodiversity conservation and statistics, currently a podstdoc at the University of Cape Town
+- 👀 I’m a Senior Lecturer in biodiversity conservation and statistics at Nelson Mandela University
 - 🌱 I’m continually developing my coding skills in R
 - 📫 timothykuiper@gmail.com
+- MView my academic profile [here]([url](https://conservation.mandela.ac.za/Academic-Staff/Tim-Kuiper))
 
 <!---
 TimothyKuiper/TimothyKuiper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
